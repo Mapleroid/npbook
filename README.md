@@ -1,4 +1,4 @@
-# pynp
+# npbook
 Samples to learn Numpy
 
 参考：
